@@ -1,4 +1,4 @@
-# 👩‍💻 BlancadevuX
+# 👩‍💻 Blanca Pinot 
 
 - 👋 Hi, I’m @blancadevux  
 - 👀 I’m passionate about **designing and building digital products** that are both functional and user-friendly.  
