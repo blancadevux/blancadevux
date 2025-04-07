@@ -11,5 +11,5 @@
 ---
 
 ✨ I'm still exploring my path in tech, but every step — from UX flows to backend logic — is part of the journey.  
-Check out my portfolio 👉[ [https://blancadevux.github.io/portafolio](https://blancadevux.github.io/portafolio)](https://blancadevux.github.io/blancadevux/
+Check out my portfolio 👉 [https://blancadevux.github.io/blancadevux/]
 
